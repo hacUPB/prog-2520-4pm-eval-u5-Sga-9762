@@ -1,0 +1,3 @@
+¡Hola, mundo!
+Este es un archivo de texto.
+2025.
